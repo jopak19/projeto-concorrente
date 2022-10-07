@@ -11,5 +11,5 @@ Para rodar o programa é necessário ter o Python 3 instalado. O programa foi te
 Para rodar o programa, basta executar o arquivo `concorrente.py` com o Python 3. Por exemplo:
     
 ```
-python3 main.py
+python3 concorrente.py
 ```
